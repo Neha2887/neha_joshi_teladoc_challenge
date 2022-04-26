@@ -37,9 +37,11 @@ Testng
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+src\test\java ->starter
+src\test\java ->starter.search (All web pages)
+src\test\java ->starter.stepdefinitions searchsteps.java
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+src\test\resources ->features New.feature
 
 
 ## Usage
