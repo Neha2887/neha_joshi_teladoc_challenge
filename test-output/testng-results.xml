@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16347" started-at="2022-04-25T22:51:02 EDT" finished-at="2022-04-25T22:51:19 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16347" started-at="2022-04-25T22:51:02 EDT" finished-at="2022-04-25T22:51:19 EDT">
+      <class name="starter.search.LookUp">
+        <test-method status="PASS" signature="add()[pri:0, instance:Look up]" name="add" duration-ms="9211" started-at="2022-04-25T22:51:02 EDT" finished-at="2022-04-25T22:51:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="del()[pri:0, instance:Look up]" name="del" duration-ms="7075" started-at="2022-04-25T22:51:12 EDT" finished-at="2022-04-25T22:51:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- del -->
+      </class> <!-- starter.search.LookUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
